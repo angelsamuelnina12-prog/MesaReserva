@@ -1,7 +1,6 @@
-
 import { useState, useEffect } from "react";
 import Hero from "./components/hero";
-import ReservaForm from "./components/ReservaForm";
+import ReservaForm from "./components/Reservaform";
 import CalendarioReservas from "./components/CalendarioReservas";
 import LoginAdmin from "./components/LoginAdmin";
 import "./App.css";
