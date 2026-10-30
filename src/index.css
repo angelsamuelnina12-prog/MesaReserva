@@ -1,0 +1,42 @@
+:root {
+  font-family: Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+.mensaje {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background: #e1f4eb;
+  color: #086b52;
+  font-weight: bold;
+}
+
+.lista-reservas {
+  display: grid;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.reserva-card {
+  padding: 20px;
+  border: 1px solid #dce8e1;
+  border-radius: 12px;
+  background: #f8fbf9;
+}
+
+.reserva-card h3 {
+  color: #086b52;
+  margin-top: 0;
+}
+
+.reserva-card p {
+  margin: 8px 0;
+}
+
